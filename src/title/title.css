@@ -1,0 +1,215 @@
+*{
+    color: white;
+ 
+}
+.all_div{
+    /* border: 2px solid red; */
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ height: 100vh;
+ display: flex;
+ background-image: url(../images/back.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+/* background-color: rgb(48, 162, 162); */
+}
+.center{
+    /* border: 2px solid red; */
+    height: 100vh;
+    width: 700px;
+    background-image: url(../images/black_fon.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 200px;
+    -webkit-box-shadow: 4px 4px 100px 30px rgba(34, 60, 80, 0.43);
+-moz-box-shadow: 4px 4px 100px 30px rgba(34, 60, 80, 0.43);
+box-shadow: 4px 4px 100px 30px rgba(34, 60, 80, 0.43);
+}
+.title{
+    /* border: 2px solid red; */
+    height: 110px;
+}
+.text{
+    /* border: 2px solid blue; */
+display: flex;
+justify-content: space-between;
+}
+.div{
+   margin: 0px;
+   padding: 0px;
+color: white;
+}
+.hr{
+    border: 2px solid  grey;
+    margin-top: 30px;
+  }
+.information{
+    /* border: 2px solid green; */
+    width: 253px;
+}
+.img{
+    /* border: 2px solid red; */
+    height: 20px;
+    width: 20px;
+  
+    background-image: url(../images/Mail.png);
+    background-repeat: no-repeat;
+   background-size: contain;
+}
+.Mail{
+    /* border: 2px solid red; */
+    height: 24px;
+    width: 253px;
+display: flex;
+justify-self: center;
+align-items: center;
+
+}
+.Home{
+    /* border: 2px solid red; */
+    height: 24px;
+    width: 253px;
+display: flex;
+justify-self: center;
+align-items: center;
+}
+.home_img{
+    /* border: 2px solid red; */
+    height: 20px;
+    width: 20px;
+    background-image: url(../images/Home.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.phoneNamber{
+    /* border: 2px solid red; */
+    height: 24px;
+    width: 253px;
+display: flex;
+justify-self: center;
+align-items: center;
+}
+.Phone_img{
+    /* border: 2px solid red; */
+    height: 20px;
+    width: 20px;
+    background-image: url(../images/Smartphone.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.calendar{
+    /* border: 2px solid red; */
+    height: 24px;
+    width: 253px;
+display: flex;
+justify-self: center;
+align-items: center;
+}
+.calendar_img{
+    /* border: 2px solid red; */
+    height: 20px;
+    width: 20px;
+    background-image: url(../images/Calendar.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Map{
+    /* border: 2px solid red; */
+    height: 24px;
+    width: 253px;
+display: flex;
+justify-self: center;
+align-items: center;
+}
+.Map_img{
+    /* border: 2px solid red; */
+    height: 20px;
+    width: 20px;
+    background-image: url(../images/Map.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.inst{
+    /* border: 2px solid red; */
+    height: 24px;
+    width: 253px;
+display: flex;
+justify-self: center;
+align-items: center;
+}
+.inst_img{
+    /* border: 2px solid red; */
+    height: 20px;
+    width: 20px;
+    background-image: url(../images/comment.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.babujyan{
+    color: white;
+}
+.div1{
+    border: 2px solid grey;
+    height: 780px;
+ 
+    
+}
+.div2{
+    display: flex;
+        
+}
+.txt{
+    margin-top: 3px;
+}
+.hr2{
+    border: 2px solid grey;
+    width: 253px;
+  margin-top: 20px;
+}
+.h3{
+    border: 2px solid grey;
+    width: 253px;
+    margin-top: 20px;
+}
+.objective{
+    /* border: 2px solid red; */
+    height: 170px;
+ margin-left: 20px;
+}
+
+
+.div_2{
+    /* border: 2px solid red; */
+    height: 780px;
+    width: 435px;
+}
+.obj_title{
+   margin-left: 20px;
+}
+.obj_text{
+    margin-left: 20px;
+}
+.hr3{
+    border: 2px solid grey;
+    width: 400px;
+    margin-left: 20px;
+}
+.experience{
+margin-left: 20px;
+}
+.experience_text{
+    margin-left: 20px;
+}
+.education{
+    margin-left: 20px;
+}
+.My_img{
+    /* border: 2px solid red; */
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(../images/My_Photo.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+}
